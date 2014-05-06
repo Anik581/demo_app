@@ -4,7 +4,7 @@ source 'http://rubygems.org'
 gem 'rails', '4.0.4'
 
 group :development do
-	gem 'mysql'
+	gem 'mysql2'
 end
 
 gem 'sass-rails', '4.0.1'
